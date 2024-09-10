@@ -1,0 +1,3 @@
+/home/bios/Themes/ThemeStyler/ThemeStyle/build/CMakeFiles/StylerManager.dir
+/home/bios/Themes/ThemeStyler/ThemeStyle/build/CMakeFiles/edit_cache.dir
+/home/bios/Themes/ThemeStyler/ThemeStyle/build/CMakeFiles/rebuild_cache.dir
